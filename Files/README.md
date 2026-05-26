@@ -57,6 +57,7 @@ Discount vs Profit Analysis
 Interactive Slicers
 
 Key Insights
+
 Technology generated the highest sales (₹836K).
 West region recorded the highest profit (₹108K).
 Sales increased consistently from 2014 to 2017.
