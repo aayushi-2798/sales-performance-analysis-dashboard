@@ -66,4 +66,4 @@ Furniture received the highest discount but generated the lowest profit.
 
 Dashboard Preview
 
-![Dashboard](Images/Dashboard.png)
+![Dashboard](../Images/Dashboard.png)
